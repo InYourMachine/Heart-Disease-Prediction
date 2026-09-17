@@ -3,7 +3,7 @@
 My first end-to-end machine learning project — from raw data to a deployed web app with an interactive front end.
 
 ## Live Demo
-*https://heart-disease-predictor-basic.streamlit.app/*
+*https://heart-stroke-predictor-basic.streamlit.app/*
 
 ## About This Project
 This is my first complete ML project as a data science student. It covers the full pipeline: exploratory data analysis, cleaning, preprocessing, model training, evaluation, and deployment through a Streamlit web app.

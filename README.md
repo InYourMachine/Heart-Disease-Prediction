@@ -53,5 +53,16 @@ The model is not perfect — the dataset is small and I am still learning. But b
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/Heart-Disease-Prediction.git
+git clone https://github.com/InYourMachine/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the app:
+```bash
+streamlit run app.py
+```

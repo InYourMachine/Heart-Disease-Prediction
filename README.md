@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Stroke Prediction
 
 My first end-to-end machine learning project — from raw data to a deployed web app with an interactive front end.
 
